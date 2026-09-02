@@ -1,5 +1,2 @@
-# DSAN-6600
-# DSAN-6600
-# DSAN-6600
-# DSAN-6600
-# DSAN-6600
+# DSAN-6600 homework collection
+
